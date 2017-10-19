@@ -1,0 +1,131 @@
+body
+{
+  background-color: #AA798D;
+  color: #D1CDCE;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+#container
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rectangle
+{
+  width: 960px;
+  margin: 20px;
+  text-align: center;
+}
+
+.square
+{
+  width: 50%;
+  float: left;
+}
+
+#logo
+{
+  float: left;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  width: 600px;
+  text-align: left;
+}
+
+#zegar
+{
+  float: left;
+  font-family: 'Sacramento', cursive;
+  font-size: 75px;
+  text-align: left;
+}
+
+.tile1
+{
+  width: 230px;
+  margin: 10px;
+  height: 142px;
+  background-color: #EFB7CE;
+  float: left;
+  color: #806972;
+}
+
+.tile2
+{
+  width: 230px;
+  margin: 10px;
+  height: 142px;
+  background-color: #C9C7C8;
+  float: left;
+  color: #806972;
+}
+
+.tile3
+{
+  width: 230px;
+  margin: 10px;
+  height: 142px;
+  background-color: #f688b4;
+  float: left;
+  color: #806972;
+}
+
+.tile4
+{
+  width: 480px;
+  margin: 10px;
+  height: 142px;
+  background-color: #A75073;
+  color: #D1CDCE;
+}
+
+.tile5
+{
+  width: 480px;
+  margin: 10px;
+  height: 304px;
+  background-color: #C9C7C8;
+  color: #D1CDCE;
+}
+
+.yt
+{
+  width: 105px;
+  margin: 10px;
+  height: 142px;
+  background-color: #EFB7CE;
+  float: left;
+  color: #EBEBEB;
+}
+
+.twitter
+{
+  width: 105px;
+  margin: 10px;
+  height: 142px;
+  background-color: #EFB7CE;
+  float: left;
+  color: #EBEBEB;
+}
+
+.Facebook
+{
+  width: 105px;
+  margin: 10px;
+  height: 142px;
+  background-color: #EFB7CE;
+  float: left;
+  color: #EBEBEB;
+}
+
+.Google
+{
+  width: 105px;
+  margin: 10px;
+  height: 142px;
+  background-color: #EFB7CE;
+  float: left;
+  color: #EBEBEB;
+}
